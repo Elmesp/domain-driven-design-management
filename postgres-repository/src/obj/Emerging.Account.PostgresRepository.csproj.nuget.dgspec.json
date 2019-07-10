@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/Emerging.Account.PostgresRepository.csproj": {}
+  },
+  "projects": {
+    "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/Emerging.Account.DomainModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/Emerging.Account.DomainModel.csproj",
+        "projectName": "Emerging.Account.DomainModel",
+        "projectPath": "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/Emerging.Account.DomainModel.csproj",
+        "packagesPath": "/Users/elmerespinoza/.nuget/packages/",
+        "outputPath": "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/elmerespinoza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/Emerging.Account.PostgresRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/Emerging.Account.PostgresRepository.csproj",
+        "projectName": "Emerging.Account.PostgresRepository",
+        "projectPath": "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/Emerging.Account.PostgresRepository.csproj",
+        "packagesPath": "/Users/elmerespinoza/.nuget/packages/",
+        "outputPath": "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/elmerespinoza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/Emerging.Account.DomainModel.csproj": {
+                "projectPath": "/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/Emerging.Account.DomainModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

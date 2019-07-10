@@ -1,0 +1,9 @@
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/bin/Debug/netstandard2.0/Emerging.Account.DomainModel.deps.json
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/bin/Debug/netstandard2.0/Emerging.Account.DomainModel.dll
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/bin/Debug/netstandard2.0/Emerging.Account.DomainModel.pdb
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/obj/Debug/netstandard2.0/Emerging.Account.DomainModel.csprojAssemblyReference.cache
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/obj/Debug/netstandard2.0/Emerging.Account.DomainModel.csproj.CoreCompileInputs.cache
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/obj/Debug/netstandard2.0/Emerging.Account.DomainModel.AssemblyInfoInputs.cache
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/obj/Debug/netstandard2.0/Emerging.Account.DomainModel.AssemblyInfo.cs
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/obj/Debug/netstandard2.0/Emerging.Account.DomainModel.dll
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/domain-model/src/obj/Debug/netstandard2.0/Emerging.Account.DomainModel.pdb

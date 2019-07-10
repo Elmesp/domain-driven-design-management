@@ -1,0 +1,12 @@
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/bin/Debug/netstandard2.0/Emerging.Account.PostgresRepository.deps.json
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/bin/Debug/netstandard2.0/Emerging.Account.PostgresRepository.dll
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/bin/Debug/netstandard2.0/Emerging.Account.PostgresRepository.pdb
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/bin/Debug/netstandard2.0/Emerging.Account.DomainModel.dll
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/bin/Debug/netstandard2.0/Emerging.Account.DomainModel.pdb
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/obj/Debug/netstandard2.0/Emerging.Account.PostgresRepository.csprojAssemblyReference.cache
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/obj/Debug/netstandard2.0/Emerging.Account.PostgresRepository.csproj.CoreCompileInputs.cache
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/obj/Debug/netstandard2.0/Emerging.Account.PostgresRepository.AssemblyInfoInputs.cache
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/obj/Debug/netstandard2.0/Emerging.Account.PostgresRepository.AssemblyInfo.cs
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/obj/Debug/netstandard2.0/Emerging.Account.PostgresRepository.csproj.CopyComplete
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/obj/Debug/netstandard2.0/Emerging.Account.PostgresRepository.dll
+/Users/elmerespinoza/Desktop/thefinalone/emerging-account/postgres-repository/src/obj/Debug/netstandard2.0/Emerging.Account.PostgresRepository.pdb
